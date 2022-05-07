@@ -1,0 +1,64 @@
+everyone:
+  - name: "Brian Plancher"
+    affiliation:
+      role: "Incoming Assistant Professor"
+      org_name: "Barnard College, Columbia University"
+      url: "https://barnard.edu/"
+    affiliation2:
+      role: "Graduating PhD Candidate"
+      org_name: "Harvard University"
+      url: "https://www.seas.harvard.edu/"
+    website:
+      title: "brianplancher.com"
+      url: "https://brianplancher.com/"
+    image_url: "/assets/team/brian.jpg"
+
+  - name: "Vijay Janpa Reddi"
+    affiliation:
+      role: "Associate Professor"
+      org_name: "Harvard University"
+      url: "https://www.seas.harvard.edu/"
+    website:
+      title: "scholar.harvard.edu/vijay-janapa-reddi"
+      url: "ttps://scholar.harvard.edu/vijay-janapa-reddi"
+    image_url: "/assets/team/vijay.png"
+
+  - name: "Peter Romine"
+    affiliation:
+      role: "Associate Professor of Electical Engineering"
+      org_name: "Navajo Technical University"
+      url: "http://www.navajotech.edu/"
+    website:
+      title: "linkedin.com/in/peter-romine"
+      url: "https://www.linkedin.com/in/peter-romine"
+    image_url: "/assets/team/peter.png"
+
+  - name: "Monsuru Ramoni"
+    affiliation:
+      role: "Associate Professor of Industrial Engineering"
+      org_name: "Navajo Technical University"
+      url: "http://www.navajotech.edu/"
+    website:
+      title: "navajotech profile"
+      url: "http://www.navajotech.edu/images/facultyStaff/facultyContact/engineeringMathTechnology/MonsuruRamoni.pdf"
+    image_url: "/assets/team/monsuru.png"
+
+  - name: "Kathryn Hollar"
+    affiliation:
+      role: "Director of Community Engagement and Diversity Outreach"
+      org_name: "Harvard University"
+      url: "https://www.seas.harvard.edu/"
+    website:
+      title: "linkedin.com/in/kathryn-hollar-5240ba5"
+      url: "https://www.linkedin.com/in/kathryn-hollar-5240ba5"
+    image_url: "/assets/team/kathryn.png"
+
+  - name: "Molly Marshall"
+    affiliation:
+      role: "Faculty Coordinator"
+      org_name: "Harvard University"
+      url: "https://www.seas.harvard.edu/"
+    website:
+      title: "linkedin.com/in/mollyabmarshall"
+      url: "https://www.linkedin.com/in/mollyabmarshall"
+    image_url: "/assets/team/molly.png"

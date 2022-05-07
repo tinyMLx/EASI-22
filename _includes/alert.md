@@ -1,0 +1,1 @@
+This workshop is based on materials from the TinyMLedu initiative. To learn more about TinyMLedu check out [their website](https://tinymledu.org)!
