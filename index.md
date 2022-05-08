@@ -29,7 +29,7 @@ To apply as a teacher please fill out this form by June 1, 2022: [https://bit.ly
 We look forward to exploring TinyML with you this summer!
 
 ## Preliminary Schedule
-<!-- <div id = "LOCAL_TIME"></div><br/> -->
+<div id = "LOCAL_TIME"></div><br/>
 
 {% include schedule_table table_data = site.data.schedule %}
 
@@ -39,21 +39,21 @@ Contact [easi-staff@googlegroups.com](mailto:easi-staff@googlegroups.com) with a
 
 ### Supporters
 ***
-We would like to thank the [IEEE CS](https://www.computer.org/press-room/2022-news/ieee-cs-diversity-inclusion-programs) for their generous support of this program through the IEEE CS Diversity & Inclusion Fund.
+We would like to thank the [IEEE CS](https://www.computer.org/) for their generous support of this program through the [IEEE CS Diversity & Inclusion Fund](https://www.computer.org/press-room/2022-news/ieee-cs-diversity-inclusion-programs).
 
 <script>
   // top time
-  var start = new Date('10/18/2021 1:00:00 PM UTC');
-  var end = new Date('10/18/2021 4:00:00 PM UTC');
+  var start = new Date('6/22/2022 12:00:00 PM MDT');
+  var end = new Date('6/22/2022 3:00:00 PM MDT');
   var localTime = start.toLocaleTimeString([], {timeStyle: 'short'}) + " to " + end.toLocaleTimeString([], {timeStyle: 'short'});
-  var startString = "The workshop will run each day from <b>1:00 PM to 4:00 PM GMT which is "
+  var startString = "The workshop will run each day from <b>12:00 PM to 3:00 PM MDT (New Mexico Time) which is "
   var endString = " in your local timezone</b> (according to your computer system time). Times below adjusted to that time zone. Exact timing and topics subject to change."
   document.getElementById('LOCAL_TIME').innerHTML = startString + localTime + endString;
   
   // all times
   var timeElements = document.getElementsByClassName("GMT_TIME");
   for (var i = 0; i < timeElements.length; i++) {
-    dateStr = '10/18/2021 ' + timeElements[i].innerHTML + ' UTC'
+    dateStr = '6/22/2022 ' + timeElements[i].innerHTML + ' MDT'
     var gmt_time = new Date(dateStr);
     timeElements[i].innerHTML = gmt_time.toLocaleTimeString([], {timeStyle: 'short'})
   }
