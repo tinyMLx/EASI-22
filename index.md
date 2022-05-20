@@ -19,12 +19,12 @@ This 3-day, hands-on/virtual workshop for high school teachers and students will
 
 Participants will be given an [Arduino Tiny Machine Learning Kit](https://store.arduino.cc/usa/tiny-machine-learning-kit) which they will use for hands-on exploration of the opportunities and challenges of TinyML by deploying and testing their own TinyML models. Following the completion of the course, students will be well positioned to excel in the [HarvardX Professional Certificate Program in Tiny Machine Learning](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning), a free online MOOC that dives deeper into the world of Tiny Machine Learning with more hands-on experiences.
 
-This program is a collaboration between [Navajo Technical University](http://www.navajotech.edu/), the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/), and [Barnard College, Columbia University](https://barnard.edu/), and will be run virtually from June 22 to June 24, 2022. The workshop is open to middle and high school teachers and students. We will be accepting up to 50 attendees and preference will be given to students and teachers enrolled at schools that serve the Navajo Nation.
+This program is a collaboration between [Navajo Technical University](http://www.navajotech.edu/), the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/), and [Barnard College, Columbia University](https://barnard.edu/), and will be run virtually from June 22 to June 24, 2022.  The workshop is targeted for secondary school educators and students. We will be accepting up to 50 attendees and preference will be given to students and educators affiliated with schools that serve the Navajo Nation.
 
-To apply as a student please fill out this form by June 1, 2022: [https://bit.ly/EASI-22-Student](https://bit.ly/EASI-22-Student)!
+To apply as a student please fill out this form by June 10, 2022: [https://bit.ly/EASI-22-Student](https://bit.ly/EASI-22-Student)!
 
-To apply as a teacher please fill out this form by June 1, 2022: [https://bit.ly/EASI-22-Teacher](https://bit.ly/EASI-22-Teacher)!
-<br>Teachers selected for the workshop will be compensated for their time.
+To apply as an educator please fill out this form by June 10, 2022: [https://bit.ly/EASI-22-Teacher](https://bit.ly/EASI-22-Teacher)!
+<br>Educators selected for the workshop will be compensated for their time.
 
 We look forward to exploring TinyML with you this summer!
 
