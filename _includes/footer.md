@@ -1,4 +1,4 @@
 ***
 
-**Updated:** 5/22\\
-by @plancherb1
+**Updated:** 6/22\\
+by [@plancherb1](https://github.com/plancherb1)
