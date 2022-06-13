@@ -1,7 +1,7 @@
 # [EASI-22]({{ "/" | relative_url }})
 
 Edge AI Summer Institute<br>
-June 22-24 2022<br>
+July 19-21 2022<br>
 
 ***
 

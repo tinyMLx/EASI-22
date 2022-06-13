@@ -5,13 +5,23 @@ everyone:
       org_name: "Barnard College, Columbia University"
       url: "https://cs.barnard.edu/"
     affiliation2:
-      role: "Graduating PhD Candidate"
+      role: "Associate"
       org_name: "Harvard University"
       url: "https://www.seas.harvard.edu/"
     website:
       title: "brianplancher.com"
       url: "https://brianplancher.com/"
     image_url: "/assets/team/brian.jpg"
+
+  - name: "Dhilan Ramaprasad"
+    affiliation:
+      role: "Associate"
+      org_name: "Harvard University"
+      url: "https://www.seas.harvard.edu/"
+    website: 
+      title: "dhilanr.github.io"
+      url: "https://dhilanr.github.io/"
+    image_url: "/assets/team/dhilan.png"
 
   - name: "Vijay Janpa Reddi"
     affiliation:
