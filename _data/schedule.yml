@@ -16,11 +16,14 @@ days:
       - time: "2:45:00 PM"
         name: "Day Closing"
     speakers:
-      - name: "Dhilan Ramaprasad"
-        website: "https://dhilanr.github.io/"
-        affiliation:
+      - name: "Brian Plancher"
+        website: "https://brianplancher.com/"
+        affiliation2:
           name: "Harvard University"
           website: "https://www.seas.harvard.edu/"
+        affiliation:
+          name: "Barnard College, Columbia University"
+          website: "https://barnard.edu/"
         links:
           # - title: "Slides"
           #   url: "/assets/pdfs/TBD.pdf"
