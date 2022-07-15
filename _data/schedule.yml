@@ -88,18 +88,3 @@ days:
           #   related_to_next: "1"
           # - title: "Video"
           #   url: "TBD"
-      - name: "Brian Plancher"
-        website: "https://brianplancher.com/"
-        affiliation2:
-          name: "Harvard University"
-          website: "https://www.seas.harvard.edu/"
-        affiliation:
-          name: "Barnard College, Columbia University"
-          website: "https://barnard.edu/"
-        links:
-          # - title: "Slides"
-          #   url: "/assets/pdfs/TBD.pdf"
-          #   local: "1"
-          #   related_to_next: "1"
-          # - title: "Video"
-          #   url: "TBD"
