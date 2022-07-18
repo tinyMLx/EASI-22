@@ -31,6 +31,7 @@ To apply as an educator please fill out this form by July 1, 2022: [https://bit.
 We look forward to exploring TinyML with you this summer!
 
 ## Preliminary Schedule
+The workshop will be held on [Zoom](https://harvard.zoom.us/j/96801670645?pwd=ZExnSElaQ0swcFFhTWVocU5RbS9NQT09).
 <div id = "LOCAL_TIME"></div><br/>
 
 {% include schedule_table table_data = site.data.schedule %}
