@@ -14,7 +14,7 @@ days:
       - time: "12:15:00 PM"
         name: "Buy2Pay Overview"
       - time: "12:25:00 PM"
-        name: "Introduction to Artifical Intelligence and Machine Learning"
+        name: "Introduction to Artificial Intelligence and Machine Learning"
       - time: "2:45:00 PM"
         name: "Day Closing"
     speakers:
@@ -33,9 +33,9 @@ days:
             related_to_next: "1"
           - title: "As Google Slides"
             url: "https://docs.google.com/presentation/d/1OtfseXOe7g0VLxcu2j1lqN0vjSBGq4zKMv1n_1QWj4Y/"
-          #   related_to_next: "1"
-          # - title: "Video"
-          #   url: "TBD"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/w7Bgu-dJkGw"
       - name: "Molly Marshall"
         website: "https://www.linkedin.com/in/mollyabmarshall"
         affiliation:
@@ -48,6 +48,9 @@ days:
             related_to_next: "1"
           - title: "Buy2Pay Login"
             url: "https://solutions.sciquest.com/apps/Router/SupplierLogin?CustOrg=HarvardFullSuite"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/A3znzZNdKwk"
 
 
   - number: "2"
