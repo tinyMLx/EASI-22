@@ -81,9 +81,9 @@ days:
             related_to_next: "1"
           - title: "As Google Slides"
             url: "https://docs.google.com/presentation/d/1qskxyxdtvW7JBHKYEb2Jzith_RlzSi6LduQcUGcYoDI/"
-          #   related_to_next: "1"
-          # - title: "Video"
-          #   url: "TBD"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/WMeC6G5a7Po"
   
   - number: "3"
     dayOfWeek: "Thursday"
