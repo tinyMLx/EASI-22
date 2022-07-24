@@ -112,5 +112,6 @@ days:
             related_to_next: "1"
           - title: "As Google Slides"
             url: "https://docs.google.com/presentation/d/1aLnnZDsQT2sNfCFv_SGCZ9i446V6C6et5OIiofTMkgM/"
-          # - title: "Video"
-          #   url: "TBD"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/Jv20bv9f9Oo"
