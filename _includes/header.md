@@ -12,7 +12,7 @@ July 19-21 2022<br>
   <img src="{{ '/assets/ntu.svg' | relative_url }}" alt="Navajo Technical University" style="height: 3.0rem">
 </a>
 <a style="text-decoration:none" href="https://cs.barnard.edu/">
-  <img src="{{ '/assets/barnard.svg' | relative_url }}" alt="Barnard College" style="height: 3.0rem">
+  <img src="{{ '/assets/barnard.png' | relative_url }}" alt="Barnard College" style="height: 3.0rem">
 </a>
 <a style="text-decoration:none" href="https://www.computer.org/press-room/2022-news/ieee-cs-diversity-inclusion-programs">
   <img src="{{ '/assets/IEEECS_small.png' | relative_url }}" alt="IEEE CS" style="height: 3.0rem">
